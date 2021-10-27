@@ -1,4 +1,3 @@
 # Table of contents
 
-* [index](README.md)
-* [index](untitled.md)
+* [欢迎来到刷机百科](README.md)
